@@ -38,7 +38,7 @@ The dashboard enables data-driven decision-making by visualizing KPIs and trends
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](Dashboard%20Part%202.PNG)
+![Dashboard Preview](SalesDashboard.PNG)
 
 ---
 
